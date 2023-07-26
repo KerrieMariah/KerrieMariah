@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kerrie Mariah</h1>
 <h3 align="center">Transforming ideas into reality</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerriemariah&label=Profile%20views&color=0e75b6&style=flat" alt="kerriemariah" /> </p>
 
