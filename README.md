@@ -5,13 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerriemariah&label=Profile%20views&color=0e75b6&style=flat" alt="kerriemariah" /> </p>
 
+
 - 🔭 I’m currently working on **a Yacht Management System**
 
 - 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://the-traveling-coder.com/](https://the-traveling-coder.com/)
 
+- 💬 Ask me about **Springboard Code Mentoring**
+
 - 📫 How to reach me **kerriemdurham@gmail.com**
+
+- ⚡ Fun fact **I'm a self-taught software engineer who worked in investment banking for five years in Hong Kong before deciding to leave corporate to travel the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +28,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kerriemariah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kerriemariah" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerriemariah&show_icons=true&locale=en&layout=compact" alt="kerriemariah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerriemariah&show_icons=true&locale=en" alt="kerriemariah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerriemariah&" alt="kerriemariah" /></p>
+
