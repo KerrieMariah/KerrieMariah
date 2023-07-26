@@ -32,13 +32,26 @@
 <br>
 <br>
 
+<h3 align="left">Github Stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerriemariah&show_icons=true&locale=en&layout=compact" alt="kerriemariah" /></p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kerriemariah&show_icons=true&locale=en" alt="kerriemariah" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kerriemariah&show_icons=true&locale=en" alt="kerriemariah" /></p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kerriemariah&" alt="kerriemariah" /></p>
 <br>
