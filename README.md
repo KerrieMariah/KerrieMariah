@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerriemariah&label=Profile%20views&color=0e75b6&style=flat" alt="kerriemariah" /> </p>
 
 
-- 🔭 I’m currently working on **a Yacht Management System** which will automate the complicated aspects of owning a boat
+- 🔭 I’m currently working on a **Yacht Management System** which will automate the complicated aspects of owning a boat
 
 - 🌱 I’m currently learning **Python**
 
