@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Springboard Code Mentoring**
 
-- 📫 How to reach me **kerriemdurham@gmail.com**
+- 📫 How to reach me **kerriemariah@gmail.com**
 
 - ⚡ Fun fact **I'm a self-taught software engineer who worked in investment banking for five years in Hong Kong before deciding to leave corporate to travel the world.**
 
@@ -31,28 +31,3 @@
 <p><a href="https://www.buymeacoffee.com/kerriemariah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kerriemariah" /></a></p><br><br>
 <br>
 <br>
-
-<h3 align="left">Github Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerriemariah&show_icons=true&locale=en&layout=compact" alt="kerriemariah" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kerriemariah&show_icons=true&locale=en" alt="kerriemariah" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kerriemariah&" alt="kerriemariah" /></p>
-<br>
-
