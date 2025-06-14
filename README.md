@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Springboard Code Mentoring**
 
-- 📫 How to reach me **kerriemariah@gmail.com**
+- 📫 How to reach me **kerrie@kerriemariah.com**
 
 - ⚡ Fun fact **I'm a self-taught software engineer who worked in investment banking for five years in Hong Kong before deciding to leave corporate to travel the world.**
 
